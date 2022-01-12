@@ -30,12 +30,9 @@ Prices range between £500 - £150000 depending on the service.
 ```
 
 <p>
-  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/yostudent?style=for-the-badge">
+  <img alt="Sponsors" src="https://img.shields.io/github/sponsors/yostudent?style=for-the-badge">
+  <img alt="Become a sponsor" src="https://www.patreon.com/yostudent">
 </p>
-
-github: [yostudent, yostudent]
-patreon: yostudent
-custom: ["https://www.patreon.com/yostudent", yostudent.com]
 
 ```
 
