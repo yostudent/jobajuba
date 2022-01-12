@@ -30,8 +30,9 @@ Prices range between £500 - £150000 depending on the service.
 ```
 
 <p>
-  <img alt="Sponsors" src="https://img.shields.io/github/sponsors/yostudent?style=for-the-badge">
-  <img alt="Become a sponsor" src="https://www.patreon.com/yostudent">
+  <a href="https://www.patreon.com/yostudent" />
+    <img alt="Twitter URL" src="https://img.shields.io/github/sponsors/yostudent?style=for-the-badge">
+  </a>
 </p>
 
 ```
