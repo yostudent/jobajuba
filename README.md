@@ -1,4 +1,6 @@
 <img src="https://github.com/jobajuba/jobajuba/blob/master/Jobajuba%20logo.png" height="200" width="200" alt="banner" />
+<img src="https://avatars.githubusercontent.com/oa/1673730?s=140&u=e697c566ad3fae2f30e62085a3c3db73cfaebc49&v=4" height="200" width="200" alt="banner" />
+<img src="https://yumpie.app/static/media/logo2.de962c62.svg" height="200" width="200" alt="banner" />
 
 ### Jobajuba Digital Studio GitHub page
 
