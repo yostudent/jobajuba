@@ -31,7 +31,7 @@ Prices range between £500 - £150000 depending on the service.
 
 <p>
   <a href="https://www.patreon.com/yostudent" />
-    <img alt="Twitter URL" src="https://img.shields.io/github/sponsors/yostudent?style=for-the-badge">
+    <img alt="Become a sponsor" src="https://img.shields.io/github/sponsors/yostudent?color=green&label=Become%20a%20sponsor&style=for-the-badge">
   </a>
 </p>
 
