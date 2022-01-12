@@ -33,6 +33,10 @@ Prices range between £500 - £150000 depending on the service.
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/yostudent?style=for-the-badge">
 </p>
 
+github: [yostudent, yostudent]
+patreon: yostudent
+custom: ["https://www.patreon.com/yostudent", yostudent.com]
+
 ```
 
 ### What do I do?
