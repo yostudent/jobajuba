@@ -30,7 +30,7 @@ Prices range between £500 - £150000 depending on the service.
 ```
 
 <p>
-  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jobajuba?color=green&style=for-the-badge">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/yostudent?style=for-the-badge">
 </p>
 
 ```
